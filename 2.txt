@@ -1,1 +1,3 @@
 lets add some text to this file of firstbranch
+this is second branch we have add some text here alos 
+ as you know this is another branch it would generlly create a conflit 
