@@ -6,7 +6,8 @@ public class newJava {
     Scanner og = new Scanner(System.in);
     String name = og.nextLine();
     System.out.println(name);
-    
+    og.close();
+
 
  }
     
